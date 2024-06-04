@@ -1,2 +1,3 @@
-#### Notes for GIT, practising commandss
-## Practicisng GIT commandsgit a
+## GIT Command Practice
+#### Update one
+#### Update two
